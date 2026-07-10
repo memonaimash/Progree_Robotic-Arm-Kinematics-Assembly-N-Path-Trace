@@ -213,7 +213,7 @@ RoboticArmKinematics/
 ├── forward_kinematics.m
 ├── inverse_kinematics.m
 ├── plot_robot.m
-├── simulation_animation.gif
+├── simulationn_animation.gif
 └── README.md
 ```
 
