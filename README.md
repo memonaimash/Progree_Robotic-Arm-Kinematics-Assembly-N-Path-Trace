@@ -10,7 +10,7 @@ The project further implements a closed-form **Analytical Inverse Kinematics (IK
 
 ## Simulation Preview
 
-![Robotic Arm Simulation](simulation_animation.gif)
+![Robotic Arm Simulation](simulationn_animation.gif)
 
 ---
 
